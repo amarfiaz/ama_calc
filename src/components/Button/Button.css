@@ -1,0 +1,28 @@
+.Button {
+  width: 3.5em;
+  line-height: 2.667em;
+  width: 2.75em;
+  line-height: 2.096em;
+  text-align: center;
+  color: #444444;
+  background-color: #ddd;
+  border: 1px solid #ccc;
+  font-size: 1.5em;
+  margin-top: 4px;
+  background-color: #f6f6f6;
+  color: #000000;
+  font-weight: bold;
+}
+
+.Button[data-size="2"] {
+    height: 91%;
+}
+
+.Button[data-value="null"] {
+    pointer-events: none;
+}
+
+.Button:hover {
+    background: #d7ddd3;
+    cursor: default;
+}
