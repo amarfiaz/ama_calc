@@ -11,12 +11,9 @@ A simple Calculator application for demonstration purposes
 
 ## Run units tests
 1. cd into <b>ama-calc</b>
-2. type <b>npm test</b> to launch the test runner 
+2. type <b>npm test</b> to launch the test runner
 
 ## Next steps
 1. Refactor code and replace use of <b>eval</b> with a more robust alternative
 2. Implement a nicer style. Currently it's quite plain, a lot more could be done with the CSS
-3. Increase unit test coverage. e..g more tests around the opertaor functions
-
-
-
+3. Increase unit test coverage. e..g more tests around the operator functions
