@@ -14,10 +14,9 @@ A simple Calculator application for demonstration purposes
 2. type <b>npm test</b> to launch the test runner 
 
 ## Next steps
-1. Convert project to Typescript in order to bring it into line with how our main project is being coded
-2. Refactor code and replace useof eval with a more robust alternative
-3. Implement a nicer style. Currently it's quite plain, a lot more could be done with the CSS
-4. Increase unit test coverage. e..g more tests around the opertaor functions
+1. Refactor code and replace use of <b>eval</b> with a more robust alternative
+2. Implement a nicer style. Currently it's quite plain, a lot more could be done with the CSS
+3. Increase unit test coverage. e..g more tests around the opertaor functions
 
 
 
