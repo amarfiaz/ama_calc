@@ -16,4 +16,4 @@ A simple Calculator application for demonstration purposes
 ## Next steps
 1. Refactor code and replace use of <b>eval</b> with a more robust alternative
 2. Implement a nicer style. Currently it's quite plain, a lot more could be done with the CSS
-3. Increase unit test coverage. e.g. more tests around the operator functions
+3. Use specific React test library. e.g. enzyme
