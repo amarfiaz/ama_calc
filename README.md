@@ -9,7 +9,7 @@ A simple Calculator application for demonstration purposes
 4. type <b>npm start</b>
 5. App will open a browser window at <b>http://localhost:3000</b>
 
-## Run units tests
+## Run unit tests
 1. cd into <b>ama-calc</b>
 2. type <b>npm test</b> to launch the test runner
 
