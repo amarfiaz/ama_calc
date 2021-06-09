@@ -4,7 +4,7 @@ A simple Calculator application for demonstration purposes
 
 ## Start the app
 1. clone the following repo <b>https://github.com/amarfiaz/ama_calc</b>
-2. cd into <b>ama-calc</b>
+2. cd into <b>ama_calc</b>
 3. type <b>npm install</b>
 4. type <b>npm start</b>
 5. App will open a browser window at <b>http://localhost:3000</b>
